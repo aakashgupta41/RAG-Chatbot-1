@@ -2,7 +2,7 @@
 
 Chat with your resume using a fully local RAG pipeline. No OpenAI, no paid APIs, no cloud services.
 
-![Demo](assets/demo.gif)
+<img width="800" height="450" alt="aakash - rag - gif" src="https://github.com/user-attachments/assets/9b8bba5a-c6ba-446f-835d-299d9ed6af5c" />
 
 ## Description
 
